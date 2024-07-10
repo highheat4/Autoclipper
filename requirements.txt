@@ -1,0 +1,4 @@
+chat_downloader
+youtube_transcript_api
+deepmultilingualpunctuation
+google.generativeai
