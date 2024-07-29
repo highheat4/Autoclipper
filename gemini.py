@@ -2,7 +2,7 @@ import os
 import google.generativeai as genai
 import subprocess
 
-os.environ["API_KEY"] = "AIzaSyDhhr2yw8ZbQi79NI06DNyam39ZAPo1w4w"
+os.environ["API_KEY"] = ""
 
 genai.configure(api_key=os.environ["API_KEY"])
 # The Gemini 1.5 models are versatile and work with both text-only and multimodal prompts
